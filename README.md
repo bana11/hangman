@@ -1,4 +1,0 @@
-hangman
-=======
-
-Java Hangman
